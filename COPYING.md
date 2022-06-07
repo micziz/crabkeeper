@@ -1,0 +1,1 @@
+PassMax is Licensed under the [MIT](/LICENSES/LICENSE-MIT.md) OR [Apache 2.0](/LICENSES/LICENSE-APACHE.md) License at your choice.
