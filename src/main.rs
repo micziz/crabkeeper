@@ -114,4 +114,9 @@ fn main() {
     } else {
         println!("Invalid command");
     }
+
+    // Check if arguments are passed
+    if command == "" {
+        println!("No arguments passed");
+    }
 }
